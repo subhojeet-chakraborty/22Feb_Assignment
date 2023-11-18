@@ -1,5 +1,5 @@
 # 22Feb_Assignment
-This is the assignment task on the pandas topic assigned by PWskills
+This is the assignment task on the pandas topic assigned by PWskills \n
 Questions including:-
 Q1. Create a Pandas Series that contains the following data: 4, 8, 15, 16, 23, and 42. Then, print the series.
 Q2. Create a variable of list type containing 10 elements in it, and apply pandas.Series function on the
